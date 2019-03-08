@@ -1,0 +1,9 @@
+Package: com.hook.hooktweak
+Name: hook
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: WeChat auxiliary tool
+Maintainer: FengZi
+Author: FengZi
+Section: Tweaks
